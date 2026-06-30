@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*/x64/
+*/Debug/
+*/Release/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.tlog
+*.log
+Build/
+*.exe
+*.pdb
+*.obj
+*.dll
+*.ilk
+*.exp
+*.lib
+*.aps
